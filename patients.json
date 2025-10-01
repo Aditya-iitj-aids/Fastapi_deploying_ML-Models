@@ -1,0 +1,52 @@
+{
+  "P001": {
+    "name": "Ananya Sharma",
+    "city": "Guwahati",
+    "age": 24,
+    "gender": "Female",
+    "height": 160,
+    "weight": 72,
+    "bmi": 28.1,
+    "verdict": "Overweight"
+  },
+  "P002": {
+    "name": "Rohit Verma",
+    "city": "Lucknow",
+    "age": 30,
+    "gender": "Male",
+    "height": 175,
+    "weight": 85,
+    "bmi": 27.8,
+    "verdict": "Overweight"
+  },
+  "P003": {
+    "name": "Priya Das",
+    "city": "Kolkata",
+    "age": 19,
+    "gender": "Female",
+    "height": 155,
+    "weight": 50,
+    "bmi": 20.8,
+    "verdict": "Normal"
+  },
+  "P004": {
+    "name": "Aditya Singh",
+    "city": "Bhopal",
+    "age": 27,
+    "gender": "Male",
+    "height": 180,
+    "weight": 102,
+    "bmi": 31.5,
+    "verdict": "Obese"
+  },
+  "P005": {
+    "name": "Kavita Iyer",
+    "city": "Chennai",
+    "age": 35,
+    "gender": "Female",
+    "height": 162,
+    "weight": 58,
+    "bmi": 22.1,
+    "verdict": "Normal"
+  }
+}
